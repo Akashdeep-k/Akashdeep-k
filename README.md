@@ -22,3 +22,4 @@ I'm Akashdeep, a computer engineering student at TIET Patiala.
 [![Codechef](https://img.shields.io/badge/Codechef-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.codechef.com/users/akashdeep_k)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashdeep-singh-kataria-485b61222/)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashdeep-k&theme=radical)
