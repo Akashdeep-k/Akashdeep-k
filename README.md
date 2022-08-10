@@ -5,6 +5,7 @@
 
 I'm Akashdeep, a computer engineering student at TIET Patiala.
 
+![](https://komarev.com/ghpvc/?username=Akashdeep-k)
 
 🧠 I'm currently learning Data Structures and Algorithms
 
