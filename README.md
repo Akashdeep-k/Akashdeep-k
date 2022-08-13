@@ -9,8 +9,6 @@ I'm Akashdeep, a computer engineering student at TIET Patiala.
 
 🧠 I'm currently learning Data Structures and Algorithms
 
-👯‍♀️ I'm looking to collaborate on web dev
-
 💬 Ask me about anything, I am happy to help
 
 📫 How to reach me akataria_be21@thapar.edu
