@@ -15,7 +15,7 @@
 
 😄 Pronouns: he/him
 
-⚡️ Fun fact: I play chess♟️
+⚡️ Fun fact: I like playing chess♟️
 
 
 ## 🔗 Lets Connect!
