@@ -15,7 +15,7 @@
 
 😄 Pronouns: he/him
 
-⚡️ Fun fact: I like playing chess♟️
+⚡️ Fun fact: I think I have a good sense of humour
 
 
 ## 🔗 Lets Connect!
