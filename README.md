@@ -11,7 +11,7 @@
 
 💬 Ask me about anything, I am happy to help
 
-📫 How to reach me akataria_be21@thapar.edu
+📫 How to reach me akashdeepkataria5@gmail.com
 
 😄 Pronouns: he/him
 
@@ -22,9 +22,17 @@
 [![Codechef](https://img.shields.io/badge/Codechef-000?style=for-the-badge&logo=ko-fi&logoColor=lightblue)](https://www.codechef.com/users/akashdeep_k)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashdeep-singh-kataria-485b61222/)
 
-### Languages: 
+### Languages and tools: 
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> </a> 
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="PremierPro" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="55" height="55"/>      
+</p>
 
 <p align="center"
 <a href="https://github.com/Akashdeep-k" ><img alt="graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashdeep-k&theme=nord_dark" width="1000"></a>
