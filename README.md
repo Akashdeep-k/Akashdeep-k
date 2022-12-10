@@ -15,7 +15,7 @@
 
 😄 Pronouns: he/him
 
-⚡️ Fun fact: I think I have a good sense of humour
+⚡️ Fun fact: I am a DFS type learner
 
 
 ### 🔗 Lets Connect!
