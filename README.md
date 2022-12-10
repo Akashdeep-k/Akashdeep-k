@@ -15,7 +15,7 @@
 
 😄 Pronouns: he/him
 
-⚡️ Fun fact: I am a DFS type learner
+⚡️ Fun fact: I learn like dfs
 
 
 ### 🔗 Lets Connect!
