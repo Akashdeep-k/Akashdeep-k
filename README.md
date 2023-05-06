@@ -1,13 +1,15 @@
 
 ## Hi, there <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width=40>
 
-<img align="right" width=400 alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" width=350 alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 #### I'm Akashdeep, a bachelor student at Thapar Institute Patiala, majoring in computer science
 
 ![profile views](https://komarev.com/ghpvc/?username=Akashdeep-k)
 
 🧠 I'm currently learning Data Structures and Algorithms
+
+👨‍💻 I'm currently working on Backend Development using nodejs
 
 💬 Ask me about anything, I am happy to help
 
@@ -35,9 +37,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="PremierPro" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="PremierPro" width="50" height="50"/>
 </p>
 
 ### My Github Stats:
@@ -46,5 +52,4 @@
 <a href="https://github.com/Akashdeep-k" align="center"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Akashdeep-k&show_icons=true&theme=gotham" width="50%" ></a>
 
 <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashdeep-k&theme=gotham&hide_border=true&include_all_commits=true&hide_title=true" />
-<img src = "https://activity-graph.herokuapp.com/graph?username=Akashdeep-k&theme=react-dark&hide_border=true&area=true" width = 800>
 </p>
